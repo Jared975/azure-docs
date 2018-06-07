@@ -61,7 +61,7 @@ The Windows VM agent can be manually installed with a Windows installer package.
 The VM Agent can be installed by double-clicking the Windows installer file. For an automated or unattended installation of the VM agent, run the following command:
 
 ```cmd
-msiexec.exe /i WindowsAzureVmAgent.2.7.1198.778.rd_art_stable.160617-1120.fre /quiet
+msiexec.exe /i WindowsAzureVmAgent.2.7.41491.872_180220-1153.fre /quiet
 ```
 
 ## Detect the VM Agent
